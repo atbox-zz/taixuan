@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/taixuan/', // 👈 請務必加上這一行，名稱要跟你的 GitHub 專案名稱一模一樣！
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
