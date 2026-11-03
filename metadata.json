@@ -1,0 +1,7 @@
+{
+  "name": "Tai Xuan Ternary Computing - From T-NAND to ALU",
+  "description": "基於漢代揚雄《太玄經》三進制思想與經典《Nand to Tetris》體系，從元始 T-NAND 門出發，逐層構建完備符號邏輯體系、加法器、4-Trit 算術邏輯單元 (ALU) 及八十一首微機模擬器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
